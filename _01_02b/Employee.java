@@ -31,7 +31,7 @@ System.out.println(totalPayment);
     // Create three variables all of type double on a single line.
     // They should be called firstBonus, secondBonus and thirdBonus and they should
     // be assigned the values 10.00, 22.00 and 35.00.
-double firstBonus, secondBonus, thirdBonus = 10.00, 22.00, 35.00;
+//double firstBonus, secondBonus, thirdBonus = 10.00, 22.00, 35.00;
     // Print out the sum of the variables called firstBonus, secondBonus and
     // thirdBonus.
 
